@@ -1,0 +1,17 @@
+{
+  "name": "蜘蛛纸牌",
+  "short_name": "蜘蛛纸牌",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f4f3c",
+  "theme_color": "#12352c",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

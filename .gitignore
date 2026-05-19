@@ -1,0 +1,14 @@
+# Local QA artifacts
+qa-*.png
+qa-*.txt
+qa-deploy-*
+.edge-profile-*/
+
+# Deployment cache
+.wrangler/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
